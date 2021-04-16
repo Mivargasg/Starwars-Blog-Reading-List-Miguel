@@ -9,7 +9,7 @@ export const Home = () => {
 					<Link to="/characters">
 						<img
 							className="d-block w-100"
-							src="https://images4.alphacoders.com/673/thumb-1920-673740.jpg"
+							src="https://www.3dnatives.com/es/wp-content/uploads/sites/4/article_starwars.jpg"
 							alt="Characters"
 						/>
 					</Link>
